@@ -12,7 +12,7 @@ The complexity of such algorithm depends on exchange amount **V** and number of 
 
 ## Example
 ### Input
-1. Let us have coins in denominations of 1, 10 and 25. And we want to exchange sum of 30
+Let us have 3 coins in denominations of 1, 10 and 25. And we want to exchange sum of 30
 ```
 30 // total amount
 3 // number of coins
@@ -22,7 +22,6 @@ The complexity of such algorithm depends on exchange amount **V** and number of 
 25
 ```
 ### Output
-1.
 ```
 30 = 0*(1) + 3*(10) + 0*(25), 3 coins
 ```
