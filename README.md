@@ -1,4 +1,4 @@
-# Coin-Exchange Problem
+# Coin-Exchange Problem (Dynamic Programming)
 The algorithm solves the well-known coin exchange problem. As a result, we get the minimum number of coins needed to exchange a certain amount,
 as well as the number and denomination of each coin
 
